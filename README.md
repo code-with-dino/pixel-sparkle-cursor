@@ -71,15 +71,6 @@ Want to make it your own? Try these:
 
 ---
 
-## What's Next?
-
-- Publish it to the Chrome Web Store (you'll need a $5 developer account)
-- Add a color theme picker in the popup
-- Support Stardew Valley item sprites as PNG images using `drawImage()` on the canvas
-- Make it work as a Firefox extension too (very small changes needed!)
-
----
-
 ## Resources
 
 - [Chrome Extensions Docs (Manifest V3)](https://developer.chrome.com/docs/extensions/mv3/)
@@ -88,5 +79,3 @@ Want to make it your own? Try these:
 - [Lospec — Pixel Art Palettes](https://lospec.com/palette-list)
 
 ---
-
-_Built with 💗 for the Codédex June 2026 Monthly Challenge_
